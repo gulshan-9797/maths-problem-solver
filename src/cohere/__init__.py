@@ -1,0 +1,3 @@
+"""
+Cohere Integration Module
+"""
